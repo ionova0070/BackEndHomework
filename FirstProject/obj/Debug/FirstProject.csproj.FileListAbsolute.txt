@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\FirstProject.dll.config
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\FirstProject.dll
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\FirstProject.pdb
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\Newtonsoft.Json.dll
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\System.Net.Http.Formatting.dll
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\System.Web.Http.dll
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\System.Web.Http.WebHost.dll
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\Newtonsoft.Json.xml
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\System.Net.Http.Formatting.xml
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\System.Web.Http.xml
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\System.Web.Http.WebHost.xml
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\ru\System.Net.Http.Formatting.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\ru\System.Web.Http.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\bin\ru\System.Web.Http.WebHost.resources.dll
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\obj\Debug\FirstProject.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\obj\Debug\FirstProject.dll
+c:\users\user\documents\visual studio 2013\Projects\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
